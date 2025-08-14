@@ -67,7 +67,7 @@ export const mockContent: MockContent[] = [
   {
     id: '4',
     title: 'Detective Poirot: Triangle At Rhodes',
-    description: 'A thrilling crime series set in modern-day London where detectives race against time to solve a series of connected murders before the killer strikes again.',
+    description: 'Hercule Poirot is vacationing on the Greek island of Rhodes when he observes a tense romantic triangle between a glamorous woman, her new husband, and another man’s wife. Poirot senses danger and warns of impending trouble, but his caution goes unheeded. When murder strikes, Poirot uses his sharp observations to uncover a crime motivated by jealousy and manipulation',
     thumbnail: 'https://images.pexels.com/photos/3137078/pexels-photo-3137078.jpeg?auto=compress&cs=tinysrgb&w=800',
     videoUrl: 'https://sample-videos.com/zip/10/mp4/SampleVideo_1280x720_1mb.mp4',
     duration: '45m',
