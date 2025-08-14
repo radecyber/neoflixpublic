@@ -69,7 +69,7 @@ export const mockContent: MockContent[] = [
     title: 'Detective Poirot: Triangle At Rhodes',
     description: 'Hercule Poirot is vacationing on the Greek island of Rhodes when he observes a tense romantic triangle between a glamorous woman, her new husband, and another man’s wife. Poirot senses danger and warns of impending trouble, but his caution goes unheeded. When murder strikes, Poirot uses his sharp observations to uncover a crime motivated by jealousy and manipulation',
     thumbnail: 'https://images.pexels.com/photos/3137078/pexels-photo-3137078.jpeg?auto=compress&cs=tinysrgb&w=800',
-    videoUrl: 'https://sample-videos.com/zip/10/mp4/SampleVideo_1280x720_1mb.mp4',
+    videoUrl: 'https://ia601708.us.archive.org/0/items/poirot-series/01.06%20Triangle%20At%20Rhodes.mp4',
     duration: '53m 14s',
     year: 2024,
     genre: ['Crime', 'Thriller', 'Drama'],
