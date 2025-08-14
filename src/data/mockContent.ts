@@ -36,7 +36,7 @@ export const mockContent: MockContent[] = [
     id: '2',
     title: 'Detective Poirot: The Incredible Theft',
     description: 'Hercule Poirot is called to investigate the disappearance of top-secret military plans from the home of a wealthy politician, Lord Mayfield. The suspects include houseguests with potential motives, including espionage and personal gain. Using his trademark logic and observation, Poirot uncovers a clever scheme involving deception, blackmail, and a surprising culprit',
-    thumbnail: 'https://npr.brightspotcdn.com/57/e2/2214e19142edbff591b95731e59f/poirot.jpg',
+    thumbnail: 'https://images.pexels.com/photos/3137078/pexels-photo-3137078.jpeg?auto=compress&cs=tinysrgb&w=800',
     videoUrl: 'https://ia601708.us.archive.org/0/items/poirot-series/01.08%20The%20Incredible%20Theft.mp4',
     duration: '51m 49s',
     year: 2023,
