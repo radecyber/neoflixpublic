@@ -66,7 +66,7 @@ export const mockContent: MockContent[] = [
   },
   {
     id: '4',
-    title: 'Midnight in London',
+    title: 'Detective Poirot: Triangle At Rhodes',
     description: 'A thrilling crime series set in modern-day London where detectives race against time to solve a series of connected murders before the killer strikes again.',
     thumbnail: 'https://images.pexels.com/photos/3137078/pexels-photo-3137078.jpeg?auto=compress&cs=tinysrgb&w=800',
     videoUrl: 'https://sample-videos.com/zip/10/mp4/SampleVideo_1280x720_1mb.mp4',
