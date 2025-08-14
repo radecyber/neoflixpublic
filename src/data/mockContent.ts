@@ -23,9 +23,9 @@ export const mockContent: MockContent[] = [
     thumbnail: 'https://static.wikia.nocookie.net/agathachristie/images/8/82/Poirot_banner.jpg/revision/latest/scale-to-width-down/409?cb=20191117235243',
 
     videoUrl: 'https://dn720503.ca.archive.org/0/items/poirot-series/01.05%20The%20Third%20Floor%20Flat.mp4',
-    duration: '1h 45m',
+    duration: '50m 47s',
     year: 1989,
-    genre: ['Mystery', 'Drama', 'Crime'],
+    genre: ['Drama', 'Crime'],
     rating: 'TV-12',
     subtitles: [
       { language: 'English', code: 'en', url: '/subtitles/poirot-en.vtt' },
@@ -35,14 +35,14 @@ export const mockContent: MockContent[] = [
   },
   {
     id: '2',
-    title: 'Detective Poirot: Death on the Nile',
-    description: 'A glamorous river cruise turns deadly when Poirot finds himself investigating a murder aboard a luxury steamer on the Nile. Romance, jealousy, and revenge collide in Egypt.',
+    title: 'Detective Poirot: The Incredible Theft',
+    description: 'Hercule Poirot is called to investigate the disappearance of top-secret military plans from the home of a wealthy politician, Lord Mayfield. The suspects include houseguests with potential motives, including espionage and personal gain. Using his trademark logic and observation, Poirot uncovers a clever scheme involving deception, blackmail, and a surprising culprit',
     thumbnail: 'https://images.pexels.com/photos/7991225/pexels-photo-7991225.jpeg?auto=compress&cs=tinysrgb&w=800',
     videoUrl: 'https://sample-videos.com/zip/10/mp4/SampleVideo_1280x720_2mb.mp4',
-    duration: '2h 8m',
+    duration: '51m 49s',
     year: 2023,
-    genre: ['Mystery', 'Drama', 'Thriller'],
-    rating: 'TV-14',
+    genre: ['Drama', 'Crime'],
+    rating: 'TV-12',
     subtitles: [
       { language: 'English', code: 'en', url: '/subtitles/nile-en.vtt' },
       { language: 'Serbian', code: 'sr', url: '/subtitles/nile-sr.vtt' },
