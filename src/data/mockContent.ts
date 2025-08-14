@@ -20,7 +20,7 @@ export const mockContent: MockContent[] = [
     id: '1',
     title: 'Detective Poirot: The Third Floor Flat',
     description: 'Hercule Poirot and friends accidentally discover a dead woman in a London apartment after a mix-up with keys. Poirot investigates the tenants and visitors, piecing together subtle clues about timing, relationships, and lies. In the end, he unmasks the murderer by revealing how access to the flat and a hidden motive fit perfectly together.',
-    thumbnail: 'https://static.wikia.nocookie.net/agathachristie/images/8/82/Poirot_banner.jpg/revision/latest/scale-to-width-down/409?cb=20191117235243',
+    thumbnail: 'https://npr.brightspotcdn.com/57/e2/2214e19142edbff591b95731e59f/poirot.jpg',
 
     videoUrl: 'https://dn720503.ca.archive.org/0/items/poirot-series/01.05%20The%20Third%20Floor%20Flat.mp4',
     duration: '50m 47s',
@@ -37,7 +37,7 @@ export const mockContent: MockContent[] = [
     id: '2',
     title: 'Detective Poirot: The Incredible Theft',
     description: 'Hercule Poirot is called to investigate the disappearance of top-secret military plans from the home of a wealthy politician, Lord Mayfield. The suspects include houseguests with potential motives, including espionage and personal gain. Using his trademark logic and observation, Poirot uncovers a clever scheme involving deception, blackmail, and a surprising culprit',
-    thumbnail: 'https://images.pexels.com/photos/7991225/pexels-photo-7991225.jpeg?auto=compress&cs=tinysrgb&w=800',
+    thumbnail: 'https://npr.brightspotcdn.com/57/e2/2214e19142edbff591b95731e59f/poirot.jpg',
     videoUrl: 'https://ia601708.us.archive.org/0/items/poirot-series/01.08%20The%20Incredible%20Theft.mp4',
     duration: '51m 49s',
     year: 2023,
@@ -53,7 +53,7 @@ export const mockContent: MockContent[] = [
     id: '3',
     title: 'Detective Poirot: The Orient Express Mystery',
     description: 'Trapped on the famous Orient Express during a snowstorm, Poirot must solve a murder when one of the passengers is found dead in their compartment.',
-    thumbnail: 'https://images.pexels.com/photos/7991580/pexels-photo-7991580.jpeg?auto=compress&cs=tinysrgb&w=800',
+    thumbnail: 'https://npr.brightspotcdn.com/57/e2/2214e19142edbff591b95731e59f/poirot.jpg',
     videoUrl: 'https://dn720503.ca.archive.org/0/items/poirot-series/12.03%20Murder%20on%20the%20Orient%20Express.mp4',
     duration: '1h 32m 51s',
     year: 2023,
@@ -61,7 +61,7 @@ export const mockContent: MockContent[] = [
     rating: 'TV-14',
     subtitles: [
       { language: 'English', code: 'en', url: '/subtitles/orient-en.vtt' },
-      { language: 'Serbian', code: 'sr', url: '/subtitles/orient-sr.vtt' },
+      { language: 'Serbian', code: 'sr', url: '/subtitles/orient-sr.vtt      
       { language: 'German', code: 'de', url: '/subtitles/orient-de.vtt' }
     ]
   },
